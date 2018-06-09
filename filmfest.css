@@ -1,0 +1,73 @@
+body h1  {
+font-family: 'Jua', sans-serif;
+
+}
+.image1 {
+
+  display: flex;
+  justify-content: center;
+  width: 45%;
+  background-size: cover;
+
+}
+.d-block{
+    margin: auto;
+    width: 100%;
+    background-size: cover;
+
+}
+.d-block-1 {
+  display: flex;
+  justify-content: center;
+width: 40%;
+background-size: cover;
+
+}
+
+.films1{
+  color: black;
+  display: flex;
+  justify-content: center;
+}
+.h1  {
+border-bottom: 2px solid currentColor;
+
+      }
+i{
+  display: flex;
+  fle
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+li {
+  margin: 20px;
+  color: white;
+}
+
+a.btn.btn-primary {
+
+    display: flex;
+    justify-content: center;
+
+  }
+
+  .row {
+      background-color: ##31f288;
+  }
+  .title{
+    text-decoration: underline;
+  }
+.carousel-control-prev {
+  color: #c1d1fd;
+}
+
+.container-expand-lg.text-center
+{
+  display: flex;
+  justify-content: center;
+}
